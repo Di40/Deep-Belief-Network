@@ -1,6 +1,8 @@
 # DeepBeliefNetwork
 
-In this project, we aim to investigate the process of visual concept learning with DBNs using simulations and analyses on FashionMNIST dataset. Visual concept learning is the process of acquiring knowledge about the visual features associated with different categories of objects. To do this, we will perform different tasks, specifically:
+This is a school project completed for the *Cognition and Computation* course at the University of Padova.
+
+In this project, we aim to investigate the process of visual concept learning with *DBN*s using simulations and analyses on *FashionMNIST* dataset. Visual concept learning is the process of acquiring knowledge about the visual features associated with different categories of objects. To do this, we will perform different tasks, specifically:
 
 *   Analyze internal representations using hierarchical clustering (dendograms) and feature visualization methods (receptive fields). 
 *   Use linear read-outs to test the model's representations at different levels of the hierarchy.
